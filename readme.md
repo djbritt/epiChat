@@ -2,7 +2,7 @@
 
 ### Theme :snowflake:
 The theme for this chat application is what I call epichat!
-It is a fun little chat app theme, that has an epic way of delivering messages to whoever is connected.
+It is a fun little chat app theme, that has an epic way of delivering messages with whoever is connected, or to chat with a chatbot.
 
 ### Theme Incorporation :cyclone:
 For incorporating the theme, I created a logo that says epichat and sits in the top left of the page.
@@ -26,21 +26,3 @@ Amazon Polly |
 ReactJS | 
 Flask | 
 SocketIO
-
-### Improvements from Handin 1 :heavy_check_mark:
-Please regrade these sections from Handin 1
-
-1. all messages received on server are relayed to all clients
-    - 2 points, I believe the messages are sent to all the clients, I just tested it and it works.
-2. all clients show new user on connect
-    - 1 point, the bot says when a new user connects by saying, "Someone looged in from Google/Facebook"
-3. all clients remove user on disconnect
-    - 1 point, the number counter of how many people are connected increases and decreases based on when someone logs out and in.
-4. all clients update count on disconnect
-    - 1 point, the number counter at the top does work when someone logs out and in.
-5. database is not SQLite	
-    - 2 points, I fixed the database for this turnin.
-6. messages are persisted via database
-    - 3 points, the database works now and stores all messages.
-7. users can only send messages after authentication
-    - 1 point, the auth flow should work fine.

@@ -21,8 +21,11 @@ I could have achieved this by having different square sections throughout the si
 It also would have been nice to have this implemented into an actual web page, with one part of the site having a chat area.
 
 ### Tools Used :hammer:
+HTML5 | 
+CSS3 | 
+JavaScript |
+ReactJS | 
 Cleverbot API | 
 Amazon Polly | 
-ReactJS | 
 Flask | 
 SocketIO
